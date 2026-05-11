@@ -1,7 +1,7 @@
 {
   "version": "1.3.4",
   "versionCode": 10304,
-  "downloadUrl": "https://github.com/lemodragon/lvdpub_helper_releases/releases/latest",
+  "downloadUrl": "https://proxy.lvdpub.com/lemodragon/lvdpub_helper_releases/releases/latest",
   "changelog": "- 优化位置签到地址解析速度\n- 修复教师指定地点无法自动定位问题",
   "forceUpdate": false
 }
