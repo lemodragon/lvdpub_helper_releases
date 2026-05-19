@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "versionCode": 10304,
+  "version": "1.3.5",
+  "versionCode": 10305,
   "downloadUrl": "https://proxy.lvdpub.com/lemodragon/lvdpub_helper_releases/releases/latest",
-  "changelog": "- 优化位置签到地址解析速度\n- 修复教师指定地点无法自动定位问题",
+  "changelog": "- 购买授权码仅保留链动小铺入口，闲鱼改为\"更多商铺开通中\"占位",
   "forceUpdate": false
 }
